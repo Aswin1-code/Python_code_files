@@ -1,0 +1,15 @@
+name=input("Whats your name ?")
+height=input("Whats your height ?")
+fn=input("Whats your father's name ?")
+fo=input("Occupation :")
+mn=input("Whats your mother's name ?")
+mo=input("Occupation :")
+place=input("Whats your native place ?")
+stdy=input("Where are you studying")
+hby=input("Whats your hobby ?")
+amb=input("Whats your ambition ?")
+print("\n\n Here's your bio-data" +" Mr."+name.upper())
+print("I am "+name+". I am coming from "+place+". My father's name is "+fn+
+      " and he is a "+fo+". My mother's name is "+mn+" and she is a "+mo+". I am coming from "+place+". I am studying in "+
+      stdy+". My hobby is "+hby+". My ambition is to become "+amb)
+print("\n\t\tThank you\n")
