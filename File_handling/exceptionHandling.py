@@ -1,6 +1,7 @@
 import time
 start_time=time.time()
 
+
 def handle_exceptions():
     print("\t**List of some common errors**\n".title())
     try:
